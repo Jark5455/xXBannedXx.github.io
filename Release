@@ -1,0 +1,15 @@
+Origin: xXBannedXx's repo
+
+Label: Kodi Beta Builds
+
+Suite: stable
+
+Version: 19
+
+Codename: Matrix
+
+Architecture: iphoneos-arm
+
+Components: main
+
+Description: Kodi beta builds
